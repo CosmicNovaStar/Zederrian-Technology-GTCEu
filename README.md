@@ -11,7 +11,7 @@ After loading the pack for the first time a game reload is needed for some textu
 </font>
 
 ### Description
-This pack is a continuation of the original [ZedTech texture pack](https://forum.industrial-craft.net/thread/11192-16x-ic2-gt5u-6-ae2-more-zederrian-technology-1-4-0/) made for older versions of gregtech by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/). most textures are ported directly from the original pack with additional textures made by Novastar, Puzzlebark, and Brcky.
+This pack is a continuation of the original [ZedTech texture pack](https://forum.industrial-craft.net/thread/11192-16x-ic2-gt5u-6-ae2-more-zederrian-technology-1-4-0/) made for older versions of gregtech by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/). most textures are ported directly from the original pack with additional textures made by Novastar, Puzzlebark, and brachy.
 
 ### Pictures
 <details>
