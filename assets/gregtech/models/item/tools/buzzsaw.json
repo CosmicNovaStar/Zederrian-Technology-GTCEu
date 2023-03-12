@@ -1,5 +1,5 @@
 {
-  "parent": "item/handheld",
+  "parent": "gregtech:item/handheld_buzz",
   "textures": {
     "layer0": "gregtech:items/tools/handle_buzzsaw",
     "layer1": "gregtech:items/tools/buzzsaw_tool",

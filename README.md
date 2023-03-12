@@ -5,13 +5,15 @@
 
 ![](logo.png)
 
-## <font color="red">NOTICE</font>
+## <font color="red">Notice</font>
 <font color="red">
 After loading the pack for the first time a game reload is needed for some texture models to update such as tools, foils, and rotors.
+
+If you are using any mods such as Loli/Censored/Normal asm, set ``onDemandAnimatedTextures`` to false for animated textures to work correctly.
 </font>
 
 ### Description
-This pack is a continuation of the original [ZedTech texture pack](https://forum.industrial-craft.net/thread/11192-16x-ic2-gt5u-6-ae2-more-zederrian-technology-1-4-0/) made for older versions of gregtech by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/). most textures are ported directly from the original pack with additional textures made by Novastar, Puzzlebark, and brachy.
+This pack is a continuation of the original [ZedTech texture pack](https://forum.industrial-craft.net/thread/11192-16x-ic2-gt5u-6-ae2-more-zederrian-technology-1-4-0/) made for older versions of gregtech by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/). most textures are ported directly from the original pack with additional textures made by Novastar, Puzzlebark, brachy, and all of the great contributors at the GTCEu discord.
 
 ### Pictures
 <details>
